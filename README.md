@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Quol04
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning Full Stack Web Development 
+- 🌱 I’m currently learning Full Stack Web Development
+-   I will be learning Mobile App development later this year, 2025
 - 💞️ I’m looking to collaborate on WebDev/mobileAppsDev
 - 📫 How to reach me kuolamol77@gmail.com
 - 😄 Pronouns: He/Him

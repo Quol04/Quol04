@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Quol04
+- 👋 Hi, I’m Peter Kuol Amol
+-   i studied Bachelor of InformationTechnology to Kenyatta Unive
 - 👀 I’m interested in Software engineering
 - 🌱 I’m currently learning Full Stack Web Development and Mobile App Development
 -   I will be learning Mobile App development later this year, 2025

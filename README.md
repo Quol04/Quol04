@@ -3,7 +3,7 @@
 - 👀 I’m interested in Software engineering.
 - 🌱 I’m learning Full-Stack Web Development for now (Nov 2024- July 2025).
 -   I will be learning Mobile App development later in September 2025.
--   Front-end Oriented
+-   planning to lean towards Front-end dev
 - 💞️ I’m looking to collaborate on WebDev/Mobile Apps Development.
 - 📫 How to reach me: kuolamol77@gmail.com.
 - 😄 Pronouns: He/Him.

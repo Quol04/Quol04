@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CF777&width=435&lines=I'm+Quol%2C+a+Full+stack+Software)](https://git.io/typing-svg)
 - 👋 Hi, I’m Peter Kuol Amol.
 -   I earned a Bachelor of Information Technology degree at Kenyatta University.
 - 👀 I’m interested in Software engineering.

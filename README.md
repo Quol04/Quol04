@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Peter Kuol Amol.
 -   I earned a Bachelor of Information Technology degree at Kenyatta University.
 - 👀 I’m interested in Software engineering.
-- 🌱 I’m learning Full-Stack Web Development for now (Nov 2024- July 2025).
+- 🌱 I’m learning Full-Stack Web Development(Nov 2024- July 2025).
 -   I will learn Mobile App development later in September/October 2025.
 -   Planning to lean towards Front-end development.
 - 💞️ I’m looking to collaborate on WebDev/Mobile Apps Development.

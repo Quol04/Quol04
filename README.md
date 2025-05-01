@@ -5,9 +5,9 @@
 - 🌱 I’m learning Full-Stack Web Development(Nov 2024- July 2025).
 -   I will learn Mobile App development later in September/October 2025.
 -   Planning to lean towards Front-end development.
-- 💞️ I’m looking to collaborate on WebDev/Mobile Apps Development.
+- 💞️ I’m looking to collaborate on Web Dev/Mobile Apps Development.
 - 📫 How to reach me: kuolamol77@gmail.com.
-- 😄 Pronouns: He/Hi
+- 😄 Pronouns: He/Him
 
 
 <!---

@@ -55,3 +55,5 @@ Full-stack developer passionate about creating web and mobile solutions.
 
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-kuolamol77%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kuolamol77@gmail.com)
+
+#### If Link is broken, [Use this Email](kuolamol77@gmail.com)
